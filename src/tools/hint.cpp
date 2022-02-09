@@ -1,6 +1,6 @@
-#include "tools/hint.h"
-#include "tools/color.h"
 #include <stdio.h>
+#include "../../include/tools/color.h"
+#include "../../include/tools/hint.h"
 
 static const char* BANNER = "\
 \t__          ___           _          __  __            _        _       _\n\
@@ -31,4 +31,3 @@ void invalidMessage() {
     printf("\n%s%sThis Function is Waiting For you to Implement ...%s\n\n", \
 FRONT_RED, BOLD, RESET);
 }
-

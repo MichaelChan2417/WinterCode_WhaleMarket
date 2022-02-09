@@ -1,4 +1,4 @@
-#include "tools/color.h"
+#include "../../include/tools/color.h"
 
 const char* RESET           = "\033[0m";
 const char* FRONT_BLACK     = "\033[30m";
