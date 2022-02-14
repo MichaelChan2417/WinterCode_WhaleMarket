@@ -1,5 +1,4 @@
-#ifndef _HINT_H_
-#define _HINT_H_
+#pragma once
 
 /**
  * @brief A Welcome Message
@@ -13,4 +12,3 @@ void welcomeMessage();
  */
 void invalidMessage();
 
-#endif
