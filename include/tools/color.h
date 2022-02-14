@@ -31,5 +31,3 @@ extern const char* UNDERLINE;
 extern const char* TWINKLING;
 extern const char* REVERSE;
 extern const char* HIDE;
-
-#endif
