@@ -1,6 +1,4 @@
-#ifndef _COLOR_H_
-#define _COLOR_H_
-
+#pragma once
 // Only Effective for Linux / Unix
 
 /** Reset all the Attributes */
